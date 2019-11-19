@@ -1,1 +1,2 @@
-This is a simple Software Aplication, Which can Split into many Sub-Meters and as a results it also shows you all the bill in a Text.txt file automatically on present or on desktop location for printing.
+This is a simple Software Aplication, Which can Split into many Sub-Meters and as a results it also shows you all the bill in a Text.txt file automatically on present or on desktop location for printing (Written totally in C)
+thank you, for your visit ..
